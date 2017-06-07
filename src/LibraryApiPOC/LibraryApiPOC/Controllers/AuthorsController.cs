@@ -8,7 +8,7 @@ using System.Web.Http;
 
 namespace LibraryApiPOC.Controllers
 {
-    public class AuthorController : ApiController
+    public class AuthorsController : ApiController
     {
         Author[] Authors = new Author[]
             {
